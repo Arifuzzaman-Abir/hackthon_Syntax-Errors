@@ -1,6 +1,6 @@
 # CampusOS — City University
-> **Visiting link** https://hackathon-syntax-errors.ai.studio
-> *Unified Digital Campus Hub for City University (CPCCU Hackathon 2026)*
+## 0. Visiting link** https://hackathon-syntax-errors.ai.studio
+> **Unified Digital Campus Hub for City University (CPCCU Hackathon 2026)**
 > *Single Source of Truth for Student Life, Academic Records, Shuttle Tracking, Club Events & QR Attendance.*
 
 ---
